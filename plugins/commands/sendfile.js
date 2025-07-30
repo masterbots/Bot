@@ -7,7 +7,7 @@ module.exports = {
     config: {
         name: "sendfile",
         aliases: ["getfile", "fetchfile"],
-        permission: 2,
+        role: 2,
         prefix: true,
         description: "Upload a script file to Pastebin and send the links.",
         categories: "Utility",
